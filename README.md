@@ -2,6 +2,8 @@
 
 ![join1](https://github.com/ShankarNarayananS/JS-Crypt/blob/master/JS-Crypt.gif)
 
+<h3> Click <a href="https://www.youtube.com/watch?v=WYjb5hl4C3A">here</a> for a better view </h3>
+
 <h2><ins> Features </ins></h2>
 <h3>1. Easy to use interface with fluid and robust transition </h3>
 <h3>2. AES algorithm standard used </h3>
